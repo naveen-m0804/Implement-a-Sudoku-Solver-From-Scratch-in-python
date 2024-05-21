@@ -13,7 +13,10 @@
 </ol>
 
 
-## PrograM = 9
+## PrograM:
+
+```py
+M = 9
 def puzzle(a):
 	for i in range(M):
 		for j in range(M):
